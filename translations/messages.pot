@@ -44,11 +44,11 @@ msgstr "Hai!"
 #: Command/User/StartCommand.php:61 Command/User/StartCommand.php:72
 #: Entity/Game.php:558 Entity/Game.php:787 Entity/Game.php:865
 msgid "Play"
-msgstr "Main"
+msgstr "Mainkan"
 
 #: Command/User/StartCommand.php:61
-msgid "Untuk memulai, mulai pesan dengan {USAGE} di salah satu obrolan Anda atau klik tombol 'Mainkan' lalu pilih obrolan untuk dimainkan"
-msgstr "Untuk memulai, mulai pesan dengan {USAGE} di salah satu obrolan Anda atau klik tombol 'Mainkan' lalu pilih obrolan untuk dimainkan."
+msgid "To begin, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in."
+msgstr "Untuk memulai, mulai pesan dengan {USAGE} di salah satu obrolan Anda atau klik tombol {BUTTON} lalu pilih obrolan untuk dimainkan."
 
 #: Entity/Game.php:232
 msgid "This game session has crashed."
